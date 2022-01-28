@@ -39,11 +39,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElizavetaChernis/ajs-homeworks4.1.git"
+    "url": "git+https://github.com/ElizavetaChernis/ajs-homeworks4.2.git"
   },
   "bugs": {
-    "url": "https://github.com/ElizavetaChernis/ajs-homeworks4.1/issues"
+    "url": "https://github.com/ElizavetaChernis/ajs-homeworks4.2/issues"
   },
-  "homepage": "https://github.com/ElizavetaChernis/ajs-homeworks4.1#readme",
+  "homepage": "https://github.com/ElizavetaChernis/ajs-homeworks4.2#readme",
   "description": ""
 }
